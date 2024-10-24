@@ -6,4 +6,5 @@
 - 🌐 Systems analysis and development student
 - 🛫 18 Years
 
-![Design sem nome (10)](https://github.com/user-attachments/assets/bf39ac8f-9f10-40d6-b212-7758ae8b75cf)
+![Design sem nome (11)](https://github.com/user-attachments/assets/e488989c-ba59-445e-ba72-d8bc9edc1dd8)
+
