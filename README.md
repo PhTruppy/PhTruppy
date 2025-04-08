@@ -9,4 +9,19 @@
 #### thanks for learning :)
 
 ![Design sem nome (11)](https://github.com/user-attachments/assets/e488989c-ba59-445e-ba72-d8bc9edc1dd8)
+### 📊 **GitHub Stats**
 
+<p align="center"> 
+  <img alt="status do github" src="https://github-readme-stats.vercel.app/api?username=SwagMessiah02&show_icons=true&theme=tokyonight"/>
+</p>
+
+#
+![Design sem nome (11)](https://github.com/user-attachments/assets/e488989c-ba59-445e-ba72-d8bc9edc1dd8)
+### 📊 **Language Stats**
+
+<p align="center"> 
+  <img alt="status das linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwagMessiah02&count=8&theme=tokyonight&layout=pie"/>
+</p>
+
+#
+![Design sem nome (11)](https://github.com/user-attachments/assets/e488989c-ba59-445e-ba72-d8bc9edc1dd8)
