@@ -12,7 +12,7 @@
 ### 📊 **GitHub Stats**
 
 <p align="center"> 
-  <img alt="status do github" src="https://github-readme-stats.vercel.app/api?username=SwagMessiah02&show_icons=true&theme=tokyonight"/>
+  <img alt="status do github" src="https://github-readme-stats.vercel.app/api?username=PhTruppy&show_icons=true&theme=tokyonight"/>
 </p>
 
 #
@@ -20,7 +20,7 @@
 ### 📊 **Language Stats**
 
 <p align="center"> 
-  <img alt="status das linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwagMessiah02&count=8&theme=tokyonight&layout=pie"/>
+  <img alt="status das linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhTruppy&count=8&theme=tokyonight&layout=pie"/>
 </p>
 
 #
